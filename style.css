@@ -1,0 +1,42 @@
+body {
+    background: #333;
+    color: #fff;
+    font-family: Sans-Serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(36, 145, 208);
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3, h4 {
+    font-size: 1em;
+}
+
+#first-header {
+    color: rgb(13, 131, 239);
+    font-family: "Comic Sans", Sans-Serif;
+}
+
+.special-text {
+    font-family: "Comic Sans MS", Sans-Serif;
+}
+
+.new{
+  position:absolute;
+  width:100px;
+  height:100px;
+  background:red;
+  left:400px;
+  top:100px;
+}
+
